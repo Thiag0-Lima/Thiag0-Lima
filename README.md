@@ -1,9 +1,5 @@
 README.md
 
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="left">Thiago Lima</h1>
 
 ###
